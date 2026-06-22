@@ -20,21 +20,21 @@ export default function Dock() {
             icon: (
                 <IconDownload className="h-full w-full text-neutral-500 dark:text-neutral-300" />
             ),
-            href: 'https://github.com/ThatOtherAndrew/Hexecute/releases/latest',
+            href: 'https://github.com/m31-galaxy/Hexecute/releases/latest',
         },
         {
             title: 'Issues',
             icon: (
                 <IconBug className="h-full w-full text-neutral-500 dark:text-neutral-300" />
             ),
-            href: 'https://github.com/ThatOtherAndrew/Hexecute/issues',
+            href: 'https://github.com/m31-galaxy/Hexecute/issues',
         },
         {
             title: 'GitHub',
             icon: (
                 <IconBrandGithub className="h-full w-full text-neutral-500 dark:text-neutral-300" />
             ),
-            href: 'https://github.com/ThatOtherAndrew/Hexecute',
+            href: 'https://github.com/m31-galaxy/Hexecute',
         },
     ];
 

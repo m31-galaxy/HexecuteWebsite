@@ -1,13 +1,13 @@
 # Hexecute Website
 
-A website for the [Hexecute](https://github.com/ThatOtherAndrew/Hexecute) gesture launcher, built with [Astro](https://astro.build/).
+A website for the [Hexecute](https://github.com/m31-galaxy/Hexecute) gesture launcher, built with [Astro](https://astro.build/).
 
 ## Development
 
 Clone the repository, and install dependencies with [bun](https://bun.sh/):
 
 ```shell
-git clone https://github.com/ThatOtherAndrew/HexecuteWebsite
+git clone https://github.com/m31-galaxy/HexecuteWebsite
 cd HexecuteWebsite
 bun install
 ```

@@ -28,7 +28,7 @@
     "tailwind-merge": "^3.4.0",
     "tailwindcss": "^4.1.18",
     "typescript": "^5.9.3",
-    "virtual-vinyl": "github:ThatOtherAndrew/VirtualVinyl"
+    "virtual-vinyl": "github:m31-galaxy/VirtualVinyl"
   },
   "devDependencies": {
     "prettier": "^3.7.4",
